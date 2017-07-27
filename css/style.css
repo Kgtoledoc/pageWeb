@@ -1,0 +1,11 @@
+.container {
+  height: auto;
+  background-color: black;
+  position: fixed;
+}
+
+.container h2 {
+  color: red;
+  background-color: white;
+  padding-left: 50%;
+}
